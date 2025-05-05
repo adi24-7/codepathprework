@@ -37,6 +37,8 @@ Block Blast:
 -Hovering blocks to see how they position in relation to the current board
 -Reviving after having a full board
 
+My App Idea: 
+As a non-native speaker of Spanish taking the AP Spanish Language course currently, I have faced difficulties practicing my conjugation. While Duolingo feels great place to start to build vocabulary, it is not effective at teaching conjugation concepts. Online, there are many different websites that explain cojugation rules and provide pratice questions, but the information is not consolidated in one area. For that reason, I would want to create a game-based app that allows user to practice conjugation topics as well as provided in-built tutorials to learn the rules before they can practice. I would also like to add an feature that uses AI to adapt to the user's strenght and weakness to provided personalized questions to improve their ability to conjugate on the spot. 
 
 ## Notes
 
